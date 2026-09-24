@@ -20,5 +20,5 @@ A simple Python game where the computer generates a random number between 1 and 
 ### Run
 
 ```bash
-python number_guessing_game.py
+number_guessing_game.py
 ```
